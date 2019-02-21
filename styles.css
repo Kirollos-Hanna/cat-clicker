@@ -8,7 +8,7 @@
 img {
   border-radius: 10px;
   width: 35%;
-  margin: auto;
+  margin: 10px;
 }
 
 .container {
@@ -16,6 +16,16 @@ img {
   background-color: #a9abad;
   border-radius: 5px;
   border: 1px solid #333;
+}
+
+.name-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  margin: 0 10px;
 }
 
 .pic-container {
