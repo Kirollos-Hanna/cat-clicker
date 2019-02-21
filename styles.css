@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 28px;
+}
+
+img {
+  border-radius: 10px;
+  width: 35%;
+  margin: auto;
+}
+
+.container {
+  margin: 20px;
+  background-color: #a9abad;
+  border-radius: 5px;
+  border: 1px solid #333;
+}
+
+.pic-container {
+  display: flex;
+  justify-content: center;
+}
+
+.clicks-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
